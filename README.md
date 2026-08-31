@@ -1,4 +1,4 @@
-## React-SpringBoot-PostgreSQL-demo
+## Task-Manager-App
 ## Overview
 This project is my first attempt at a full-stack project.
 I wanted to get familarised with full-stack development to perpare me for my "Individual Project" module for my final year of university, where I wanted to build the largest scale project I've ever worked on.
